@@ -1,7 +1,7 @@
 package com.yqritc.scalableimageview;
 
 import android.graphics.Matrix;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Created by yqritc on 2015/06/12.
